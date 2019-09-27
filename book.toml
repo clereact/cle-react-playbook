@@ -1,0 +1,6 @@
+[book]
+authors = ["Jonathan Knapp"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cleveland React Playbook"
