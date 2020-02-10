@@ -7,7 +7,8 @@ You can learn more about Cleveland React on [our website](https://clereact.dev/)
 
 ## Development
 
-These source files build a static website using a library called [mdbook](https://github.com/rust-lang-nursery/mdBook#installation). The prior link provides multiple options for installing it locally.
+These source files build a static website using a library called [mdbook](https://github.com/rust-lang-nursery/mdBook#installation). The prior link provides multiple options for installing it locally
+or if you have Homebrew installed you can run `brew bundle`.
 
 ### Running Locally
 
