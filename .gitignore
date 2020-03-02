@@ -1,2 +1,5 @@
 .netlify/
 book/
+
+# Local Netlify folder
+.netlify

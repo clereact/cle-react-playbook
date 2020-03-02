@@ -8,3 +8,4 @@
   - [Messaging Pre-Meetup](./messaging_pre_meetup.md)
   - [Finding Volunteers](./finding_volunteers.md)
 - [Running the Organization](./running_the_organization.md)
+  - [Hosting Details](./hosting_details.md)
